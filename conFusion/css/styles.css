@@ -58,3 +58,9 @@ body {
 
 .modal-body {
   background-color: #d1c4e9; }
+
+.modal-title {
+  color: floralwhite; }
+
+.close {
+  color: floralwhite; }
