@@ -46,6 +46,7 @@
     "gulp-uglify": "^3.0.2",
     "gulp-usemin": "^0.3.30",
     "htmlmin": "^0.0.7",
+    "imagemin": "^6.13.4",
     "jit-grunt": "^0.10.0",
     "lite-server": "^2.3.0",
     "node-sass": "^4.13.0",
