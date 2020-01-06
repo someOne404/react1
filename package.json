@@ -61,5 +61,8 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.4.0",
     "popper.js": "^1.12.9"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
